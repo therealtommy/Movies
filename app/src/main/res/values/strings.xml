@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Movies</string>
+    <string name="empty_list">Вы пока не добавили фильмы!</string>
+    <string name="delete_selected">Удалить выбранное</string>
+    <string name="add_movie">Добавить фильм</string>
+    <string name="movie_title">Название фильма</string>
+    <string name="browse">Смотреть</string>
+    <string name="search_movie">Искать фильмы</string>
+    <string name="poster">Постер</string>
 </resources>
