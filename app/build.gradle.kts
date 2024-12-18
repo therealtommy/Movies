@@ -43,6 +43,9 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7")
     implementation (libs.androidx.room.ktx)
     implementation (libs.androidx.room.ktx)
+    implementation (libs.retrofit)
+    implementation (libs.gsonConverter)
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
